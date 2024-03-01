@@ -3,7 +3,7 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img align="left" src="https://github.com/SidnaZayn/SidnaZayn/blob/main/devcard.svg" width="200" alt="my card"/></a>
 ### Know me better..
-#### 🔭 I’m currently working on Imani Prima as Junior Software Dev
+#### 🔭 I’m currently working on Imani Prima as Software Dev
 #### 🌱 I’m currently interested in Web Developing and Data Analitics
 
 ### Stacks Used
